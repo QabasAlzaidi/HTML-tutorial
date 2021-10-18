@@ -40,7 +40,7 @@ html, body { /* to remove the gaps on top and sides*/
 }
 
 .main-header{
-    background-color: blueviolet;
+    background-color: rgba(78, 30, 122, 0.568);
     background-size: cover;
 }
 
@@ -73,7 +73,7 @@ html, body { /* to remove the gaps on top and sides*/
 }
 
 .main-footer {
-    background-color: blueviolet;
+    background-color: rgba(77, 25, 146, 0.5);
     color: white;
     padding: .25em 0;
     text-align: center;
